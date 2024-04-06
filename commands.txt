@@ -1,0 +1,5 @@
+// Create environment Python 3.3+
+python -m venv store-nav-env
+
+// Activate env
+source store-nav-env/bin/activate
