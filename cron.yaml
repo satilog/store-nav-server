@@ -1,0 +1,5 @@
+cron:
+- description: "daily summary job"
+  url: /batch
+  target: store-nav-service
+  schedule: every 24 hours
